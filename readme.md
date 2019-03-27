@@ -42,9 +42,11 @@ Primeiro você precisa ter o node instalado, para iniciar o backend basta navega
 digitar os seguintes comandos:
 
 ```yarn install```
+
 ```yarn dev```
 
 Para executar o frontend é necessário fazer o mesmo processo, porem com `yarn start`
 
 ```yarn install```
+
 ```yarn start```
