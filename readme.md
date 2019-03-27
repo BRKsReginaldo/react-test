@@ -34,3 +34,17 @@ para conseguir informações sobre todas as receitas, existe o endpoint `/income
 
 O usuario logado é controlado atraves do parametro ?id=1|2|3 na url, para acessar com outro usuario basta alterar este valor,
 desde que esteja entre um dos tres ids validos
+
+
+### Como rodar o app
+
+Primeiro você precisa ter o node instalado, para iniciar o backend basta navegar até a pasta `backend` com um terminal e
+digitar os seguintes comandos:
+
+```yarn install```
+```yarn dev```
+
+Para executar o frontend é necessário fazer o mesmo processo, porem com `yarn start`
+
+```yarn install```
+```yarn start```
